@@ -1,0 +1,5 @@
+Nama 	: Zuda Pradana P
+Nim	: 04217044
+Prodi	: Sistem Informasi A
+Fakultas: Ilmu Komputer
+Semester: 6
